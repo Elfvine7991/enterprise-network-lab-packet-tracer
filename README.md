@@ -15,6 +15,7 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 - STP (Spanning Tree Protocol)
 - EtherChannel (LACP)
 - VTP (VLAN Trunking Protocol)
+- Port Security (MAC address control on access ports)  
 
 ---
 
@@ -23,6 +24,7 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 - OSPF
 - EIGRP
 - BGP
+- Route redistribution 
 
 ---
 
@@ -37,6 +39,7 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ###  Security
 - ACL (Access Control Lists)
+- Port Security (restricting unauthorized devices)
 - VLAN segmentation
 - SSH remote access
 
@@ -52,4 +55,4 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ##  Network Topology
 
-Topology file:
+![Network Topology](topology.png)
