@@ -1,4 +1,4 @@
-# 🚀 Enterprise Network Lab (Cisco Packet Tracer)
+#  Enterprise Network Lab (Cisco Packet Tracer)
 
 ## Note
 This project was developed as part of a university coursework. The implementation, configuration, and testing were completed independently.
@@ -7,9 +7,9 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ---
 
-## 🧠 Implemented Technologies
+##  Implemented Technologies
 
-### 🔹 Layer 2
+###  Layer 2
 - VLAN (10, 20, 100, 999)
 - Trunking (802.1Q)
 - STP (Spanning Tree Protocol)
@@ -18,7 +18,7 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ---
 
-### 🔹 Layer 3
+###  Layer 3
 - Inter-VLAN Routing (SVI)
 - OSPF
 - EIGRP
@@ -26,7 +26,7 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ---
 
-### 🔹 Network Services
+### Network Services
 - DHCP
 - DNS (Internal Server)
 - NTP
@@ -35,14 +35,14 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ---
 
-### 🔹 Security
+###  Security
 - ACL (Access Control Lists)
 - VLAN segmentation
 - SSH remote access
 
 ---
 
-### 🔹 Additional Features
+### Additional Features
 - NAT
 - Site-to-Site VPN
 - HSRP (High Availability)
@@ -50,6 +50,6 @@ It demonstrates real-world network design using Layer 2 and Layer 3 technologies
 
 ---
 
-## 🗺️ Network Topology
+##  Network Topology
 
 Topology file:
